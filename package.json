@@ -1,0 +1,15 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Error: no test specified"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanu33/Tutorial/issues"
+  },
+  "homepage": "https://github.com/santanu33/Tutorial#readme"
+}
